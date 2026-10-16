@@ -1,3 +1,7 @@
+## 15.1.1
+
+- Renamed to Game Stages Reborn (mod id, API and scripts unchanged)
+
 ## 15.1.0
 
 - Ported to NeoForge 1.21.1 (based on 1.20.1 commit 5444586)

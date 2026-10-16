@@ -6,7 +6,7 @@ issueTrackerURL = "https://github.com/traelmyx/game-stages/issues"
 [[mods]]
 modId = "gamestages"
 version = "${version}"
-displayName = "Game Stages (Unofficial 1.21.1 Port)"
+displayName = "Game Stages Reborn"
 authors = "Darkhax, traelmyx"
 credits = "Original mod by Darkhax"
 displayURL = "https://github.com/traelmyx/game-stages"

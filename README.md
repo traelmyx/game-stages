@@ -1,8 +1,8 @@
-# Game Stages (Unofficial 1.21.1 Port)
+# Game Stages Reborn
 
 Unofficial NeoForge 1.21.1 port of [Game Stages](https://github.com/Darkhax-Minecraft/Game-Stages) by Darkhax.
 
-Game Stages is a framework for custom progression. Players unlock named stages, and other mods, scripts and advancements can lock content behind them. The original stopped at 1.20.1, and Darkhax [said a 1.21.1 version isn't planned](https://github.com/Darkhax-Minecraft/Game-Stages/issues/89), so here it is. This port isn't affiliated with Darkhax. Please report problems here, not on the original repo.
+Game Stages is a framework for custom progression. Players unlock named stages, and other mods, scripts and advancements can lock content behind them. Please report problems here, not on the original repo.
 
 Based on the original `1.20.1` branch at [5444586](https://github.com/Darkhax-Minecraft/Game-Stages/commit/5444586cb26dbeb6c4a455558089070e710cfe2e).
 
