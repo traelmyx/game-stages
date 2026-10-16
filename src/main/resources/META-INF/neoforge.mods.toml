@@ -1,0 +1,35 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "LGPL-2.1"
+issueTrackerURL = "https://github.com/traelmyx/game-stages/issues"
+
+[[mods]]
+modId = "gamestages"
+version = "${version}"
+displayName = "Game Stages (Unofficial 1.21.1 Port)"
+authors = "Darkhax, traelmyx"
+credits = "Original mod by Darkhax"
+displayURL = "https://github.com/traelmyx/game-stages"
+logoFile = "assets/gamestages/icon.png"
+description = '''A framework for creating custom progression systems. Unofficial NeoForge 1.21.1 port of Game Stages by Darkhax.'''
+
+[[dependencies.gamestages]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.gamestages]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.21.2)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.gamestages]]
+modId = "crafttweaker"
+type = "optional"
+versionRange = "[21.0,)"
+ordering = "NONE"
+side = "BOTH"
