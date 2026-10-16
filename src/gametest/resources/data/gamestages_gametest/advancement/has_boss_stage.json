@@ -1,0 +1,8 @@
+{
+  "criteria": {
+    "has_stage": {
+      "trigger": "gamestages:has_stage",
+      "conditions": { "stage": "boss_defeated" }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "LGPL-2.1"
+
+[[mods]]
+modId = "gamestages_gametest"
+version = "${version}"
+displayName = "Game Stages Tests"
+
+[[dependencies.gamestages_gametest]]
+modId = "gamestages"
+type = "required"
+versionRange = "*"
+ordering = "AFTER"
+side = "BOTH"
